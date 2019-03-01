@@ -59,7 +59,7 @@ async function makeInterval(url, msg){
 
             const embed = {
                 "title": "Status",
-                "description": "217.11.249.93:27580",
+                "description": url,
                 "color": 1498995,
                 "timestamp": new Date(),
                 "thumbnail": {
